@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/venka/Downloads/MLFLOW/mlruns/0/23d4246556d3493bb8562a3298dd8a71/artifacts
+end_time: 1690482469485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23d4246556d3493bb8562a3298dd8a71
+run_name: bustling-conch-317
+run_uuid: 23d4246556d3493bb8562a3298dd8a71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690482467074
+status: 3
+tags: []
+user_id: venka
