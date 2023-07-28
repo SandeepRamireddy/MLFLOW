@@ -3,4 +3,4 @@
 
 In order to run this setup
 
-$mlflow run 
+$mlflow run https://github.com/SandeepRamireddy/MLFLOW.git
