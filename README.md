@@ -1,6 +1,6 @@
 # MLFLOW
 
 
-in order to run this setup
+In order to run this setup
 
-mlflow run 
+$mlflow run 
